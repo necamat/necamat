@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @necamat
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Spring
-- 💞️ I’m looking to collaborate on Spring
+- 👀 I’m interested in c#, .net and Java
+- 🌱 I’m currently learning c#
+- 💞️ I’m looking to collaborate on c#
 - 📫 matovicnemanja85@gmail.com
 
 <!---
