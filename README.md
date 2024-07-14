@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @necamat
-- 👀 I’m interested in c#, .net and Java
+- 👀 I’m interested in c#, .NET
 - 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on c#
 - 📫 matovicnemanja85@gmail.com
