@@ -1,17 +1,18 @@
 # Hi, I'm Nemanja 👋
 
 **Middle Backend Developer** at **Gemini Software DOO** · Svilajnac, Serbia 🇷🇸
-Working with **C# / .NET** and **Microsoft Azure** to build and maintain
-business-critical systems that run 24/7 in production.
+Working with **C# / .NET** and **Microsoft Azure** to build and maintain business-critical systems that run 24/7 in production.
 
 ---
 
 ### 🛠️ What I work with day-to-day
 
-**Backend** &nbsp;·&nbsp; C# · .NET / .NET Core · ASP.NET Core · ASP.NET MVC · Entity Framework · ADO.NET · REST APIs
-**Database** &nbsp;·&nbsp; SQL Server (T-SQL, stored procedures, indexing, query optimization)
-**Cloud & DevOps** &nbsp;·&nbsp; Microsoft Azure (App Services, Functions, AKS, Storage, Key Vault) · Docker · Kubernetes · Git
-**Frontend** &nbsp;·&nbsp; JavaScript · jQuery · Kendo UI · Bootstrap
+| Layer | Stack |
+|-------|-------|
+| **Backend** | C# · .NET / .NET Core · ASP.NET Core · ASP.NET MVC · Entity Framework · ADO.NET · REST APIs |
+| **Database** | **Relational:** SQL Server (T-SQL, stored procedures, indexing, query optimization) · **NoSQL:** MongoDB · Azure Cosmos DB |
+| **Cloud & DevOps** | Microsoft Azure (App Services, Functions, AKS, Storage, Key Vault) · Docker · Kubernetes · Git |
+| **Frontend** | JavaScript · jQuery · Kendo UI · Bootstrap |
 
 ---
 
