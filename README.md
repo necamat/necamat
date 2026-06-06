@@ -29,7 +29,6 @@ Working with **C# / .NET** and **Microsoft Azure** to build and maintain busines
 
 - **Email:** matovicnemanja85@gmail.com
 - **LinkedIn:** [linkedin.com/in/necamat](https://www.linkedin.com/in/necamat/)
-- **Open to:** new opportunities — on-site or remote
 
 ---
 
